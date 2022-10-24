@@ -1,7 +1,6 @@
 # discordpy project template
 
 discord botを作成するテンプレートプロジェクトです。
-詳しくは[こちらのドキュメント](https://mizunanari.github.io/tech-dojo-discordpy-doc/)をご覧ください。
 
 ```text
 .
